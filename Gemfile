@@ -1,0 +1,20 @@
+# frozen_string_literal: true
+source "https://rubygems.org"
+
+gem 'rspec'
+gem 'json'
+gem 'rest-client'
+gem 'activesupport'
+gem 'hashdiff'
+gem 'logger'
+gem 'json-schema'
+gem 'pg', '0.21.0'
+gem 'json-diff'
+gem 'json-compare'
+gem 'jwt'
+gem 'spreadsheet'
+gem 'yomu'
+gem 'roo'
+gem 'roo-xls'
+gem 'nokogiri'
+# gem 'csv'
